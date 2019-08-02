@@ -1,0 +1,22 @@
+{
+  "name": "idvpn-styles",
+  "version": "1.0.0",
+  "description": "Styles for idvpn",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idvpn/idvpn-styles.git"
+  },
+  "keywords": [
+    "idvpn"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idvpn/idvpn-styles/issues"
+  },
+  "homepage": "https://github.com/idvpn/idvpn-styles#readme"
+}
